@@ -12,9 +12,9 @@ const Webdev = () => {
 
         <div className="col">
     <div className="card">
-    <iframe src="https://emcleto-todoapp.netlify.app/" title="Embedded Website" width="100%" height="500px"></iframe>
+    <iframe src="https://group7project.vercel.app/html/index.html" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">KodeGo Capstone 1 Project Build with Javascript</a>
+    <a className="btn btn-primary card-link" href="https://group7project.vercel.app/html/index.html" target="_blank">KodeGo Capstone 1 Project Build with Javascript</a>
   </div>
     </div>
   </div>
