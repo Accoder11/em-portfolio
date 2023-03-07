@@ -14,7 +14,7 @@ function Tools() {
 
   <div className="col">
     <div className="card">
-      <img src="https://assets.stickpng.com/images/62bdcf2a74c0457826807f18.png" className="card-img-top" alt="XAMPP logo" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" className="card-img-top" alt="XAMPP logo" />
     </div>
   </div>
 
