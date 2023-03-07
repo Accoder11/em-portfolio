@@ -7,7 +7,7 @@ const Webdev = () => {
         <h2 className='section-header my-5'><span className="badge rounded-pill bg-primary border"><img className="m-2" src="https://www.seekpng.com/png/detail/492-4929420_web-development-clipart-logo-png-web-development-logo.png" alt="webdev logo" width="90px" height="80px"/>Web Development Tools and Projects</span></h2>
         <div className="container-fluid">
         <Tools />
-        <h2 className='text-center text-white my-5'><span>KodeGo Bootcamp and WordPress Projects</span></h2>
+        <h2 className='section-header my-5'><span className="badge rounded-pill bg-primary border">KodeGo Bootcamp and WordPress Projects</span></h2>
         <div className="row row-cols-1 row-cols-md-3 g-3 text-center bg-primary p-2">
   <div className="col">
     <div className="card">
