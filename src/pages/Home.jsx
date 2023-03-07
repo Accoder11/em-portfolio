@@ -34,7 +34,7 @@ const Home = () => {
         </div>
       </div>
        <Navbar />
-       <div className="container">
+       <div className="container-fluid">
       <Education />
       <Experience />
       <Projects />

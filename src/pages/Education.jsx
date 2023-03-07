@@ -4,9 +4,9 @@ function Education() {
   return (
     <div>
     <div className="container">
-      <h2 className='my-5 section-header'><span class="badge rounded-pill bg-primary">Educational Background and Training</span></h2>
-      
-    <div className="card my-5">
+      <h2 className='section-header my-5'><span className="badge rounded-pill bg-primary border"><img className="m-2" src="https://www.umultirank.org/export/sites/default/.galleries/UMR/covid-story-june-2021/Assessment-of-learning-outcomes-in-higher-education.jpg_516937700.jpg" alt="canva logo" width="90px" height="80px"/>Educational Background and Training</span></h2>
+      <div className='container bg-primary p-3'>
+    <div className="card my-3">
   <div className="card-header">
     <h4>College</h4>
   </div>
@@ -27,7 +27,7 @@ function Education() {
   </div>
 </div>
 
-<div className="card">
+<div className="card my-3">
   <div className="card-header">
     <h4>KodeGo Bootcamp</h4>
   </div>
@@ -36,6 +36,7 @@ function Education() {
         <p className="card-text">November 2022-February 2023
         </p>
   </div>
+</div>
 </div>
 </div>
 </div>

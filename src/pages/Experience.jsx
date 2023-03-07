@@ -6,8 +6,8 @@ function Experience() {
     <div className='container'>
       
       <div className='row g-5 my-5'>
-      <h2 className='section-header'><span className="badge rounded-pill bg-primary">Work Experience</span></h2>
-      <div className="row">
+      <h2 className='section-header my-5'><span className="badge rounded-pill bg-primary border"><img className="m-2" src="https://www.pngitem.com/pimgs/m/480-4808402_work-experience-experience-symbol-hd-png-download.png" alt="work experience logo" width="80px" height="70px"/>Work Experience</span></h2>
+      <div className="row bg-primary p-3">
   <div className="col-sm-6 mb-3 mb-sm-0">
     <div className="card">
       <div className="card-body">
@@ -45,7 +45,7 @@ function Experience() {
   </div>
 </div>
 <div className='row g-5 my-5'>
-<div className="row">
+<div className="row bg-primary p-3">
   <div className="col-sm-6 mb-3 mb-sm-0">
     <div className="card">
       <div className="card-body">

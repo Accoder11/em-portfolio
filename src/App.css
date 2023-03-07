@@ -60,6 +60,7 @@ a {
   text-decoration: none;
 }
 
-.call-me {
-  font-size: 1.7rem;
+.call-me a {
+  font-size: 1.8rem;
+  color: white;
 }
