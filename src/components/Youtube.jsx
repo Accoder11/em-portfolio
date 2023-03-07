@@ -1,11 +1,11 @@
 import React from 'react'
-import youtube from '../assets/youtube.png'
+
 
 function Youtube() {
   return (
     <div className='container'>
-      <h2 className='my-5 section-header'><span className="badge rounded-pill bg-primary border"><img className="m-1" src={youtube} alt="youtube logo" width="100px" height="100px"/>YouTube Videos</span></h2>
-        <div className="row row-cols-1 row-cols-md-2 g-4 bg-primary p-3 my-5">
+      <h2 className='section-header'><span className="badge rounded-pill border"><img className="rounded-circle mx-2" src="https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg?w=2000" alt="youtube logo" width="80px" height="80px"/>YouTube Videos</span></h2>
+        <div className="row row-cols-1 row-cols-md-2 g-4 bg-primary p-3 my-5 border rounded">
       <div className="col">
         <div className="card">
         <div className="ratio ratio-16x9">

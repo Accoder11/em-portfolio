@@ -1,17 +1,16 @@
 import React from 'react'
 import excel from '../assets/excel.png'
-import msexcel from '../assets/msexcel.png'
 import googlesheets from '../assets/googlesheets.png'
 
-function Excel() {
+const Excel = () => {
   return (
     <div>
         <div className='container'>
-        <h3 className='my-5 section-header'><span className="badge rounded-pill bg-primary border"><img className="m-3" src={excel} alt="ms excel logo" width="70px" height="70px"/>Google Sheets / MS Excel</span></h3>
-        <div className="row row-cols-1 row-cols-md-3 g-4 bg-primary p-3 text-center my-5">
+        <h2 className='my-5 section-header'><span className="badge rounded-pill border"><img className="m-3 rounded-circle" src={excel} alt="ms excel logo" width="70px" height="70px"/>Google Sheets / MS Excel</span></h2>
+        <div className="row row-cols-1 row-cols-md-3 g-4 bg-primary p-3 text-center my-5 border rounded">
   <div className="col">
     <div className="card">
-      <img src={msexcel} className="card-img-top" alt="ms excel logo" />
+      <img src="https://www.cpapracticeadvisor.com/wp-content/uploads/sites/2/2022/07/29755/logo_excel_1_.5ae211c69b6ca.png" className="card-img-top" alt="ms excel logo" />
       <div className="card-body">
     <a href="https://docs.google.com/spreadsheets/d/1ivfmIBtSDRp-7PZTCeDLtgIhaCZhKDBe/edit?rtpof=true&sd=true" target="_blank" className="btn btn-primary card-link">MS Excel Formula ​Training</a>
     </div>

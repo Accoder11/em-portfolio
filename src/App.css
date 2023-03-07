@@ -44,6 +44,10 @@ body {
   font-size: 3rem;
 }
 
+.section-header span {
+  background-color: blue;
+}
+
 .resume a {
   color: white;
   text-decoration: none;

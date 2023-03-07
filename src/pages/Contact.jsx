@@ -3,7 +3,7 @@ import React from 'react';
 const Contact = () => {
   return (
     <div className="container text-center my-5">
-      <h2 className='section-header'><span className="badge rounded-pill bg-primary border"><img className="m-3" src="https://us.123rf.com/450wm/veronawinner/veronawinner1807/veronawinner180700102/114960897-contact-icons-in-black-circles-in-flat-style-telephone-mail-mobile-phone-email-location-and-web.jpg?ver=6" alt="contact me logo" width="80px" height="70px"/>Contact</span></h2>
+      <h2 className='section-header'><span className="badge rounded-pill border"><img className="m-2 rounded-circle" src="https://www.seekpng.com/png/full/130-1306317_clipart-resolution-12001200-contact-us-icon-transparent.png" alt="contact me logo" width="80px" height="70px"/>Contact</span></h2>
       
   <div className="row row-cols-4 rounded p-3 g-5 my-5">
   

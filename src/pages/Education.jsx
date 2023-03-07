@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Education() {
+const Education = () => {
   return (
     <div>
     <div className="container">
-      <h2 className='section-header my-5'><span className="badge rounded-pill bg-primary border"><img className="m-2" src="https://www.umultirank.org/export/sites/default/.galleries/UMR/covid-story-june-2021/Assessment-of-learning-outcomes-in-higher-education.jpg_516937700.jpg" alt="canva logo" width="90px" height="80px"/>Educational Background and Training</span></h2>
-      <div className='container bg-primary p-3'>
+      <h2 className='section-header my-5'><span className="badge rounded-pill border"><img className="m-2 rounded-circle" src="https://www.umultirank.org/export/sites/default/.galleries/UMR/covid-story-june-2021/Assessment-of-learning-outcomes-in-higher-education.jpg_516937700.jpg" alt="canva logo" width="90px" height="80px"/>Educational Background and Training</span></h2>
+      <div className='container bg-primary border rounded p-3'>
     <div className="card my-3">
   <div className="card-header">
     <h4>College</h4>
