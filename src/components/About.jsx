@@ -16,9 +16,9 @@ function About() {
     </div>
     <div class="col-md-7">
       <div class="card-body">
-      <div className="card bg-primary p-3 my-2 border rounded">
+      <div className="card bg-primary p-2 border rounded">
         <div className="card-body">
-          <p className="card-text">As a web developer with a background in content curation and
+          <p className="card-text about-me">As a web developer with a background in content curation and
         social media management, I possess strong adaptability and
         problem-solving skills, as well as a passion for continuous
         learning. With my experience in video production, data
