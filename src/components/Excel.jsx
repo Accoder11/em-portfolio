@@ -6,7 +6,7 @@ const Excel = () => {
   return (
     <div>
         <div className='container'>
-        <h2 className='my-5 section-header'><span className="badge rounded-pill border"><img className="m-3 rounded-circle" src={excel} alt="ms excel logo" width="70px" height="70px"/>Google Sheets / MS Excel</span></h2>
+        <h2 className='section-header'><span className="badge rounded-pill border"><img className="rounded-circle" src={excel} alt="ms excel logo" width="60px" height="60px"/>Excel/Spreadsheets</span></h2>
         <div className="row row-cols-1 row-cols-md-3 g-4 bg-primary p-3 text-center my-5 border rounded">
   <div className="col">
     <div className="card">

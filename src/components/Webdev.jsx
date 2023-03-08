@@ -3,12 +3,13 @@ import Tools from '../components/Tools'
 
 const Webdev = () => {
   return (
-    <div className='container-fluid my-5'>
-        <h2 className='section-header my-5'><span className="badge rounded-pill border"><img className="m-2 rounded-circle" src="https://www.seekpng.com/png/detail/492-4929420_web-development-clipart-logo-png-web-development-logo.png" alt="webdev logo" width="90px" height="80px"/>Web Development Tools and Projects</span></h2>
+    <div className='container'>
+        <h2 className='section-header my-4 text-center'><span className="badge rounded-pill border"><img className="p-1 rounded-circle" src="https://www.seekpng.com/png/detail/492-4929420_web-development-clipart-logo-png-web-development-logo.png" alt="webdev logo" width="60"
+         height="60"/>Web Development</span></h2>
         <div className="container">
         <Tools />
-        <h2 className='section-header my-5'><span className="badge rounded-pill border">KodeGo Bootcamp and WordPress Projects</span></h2>
-        <div className="row row-cols-1 row-cols-md-2 gy-5 text-center bg-primary p-5 my-5 border rounded">
+        <h2 className='section-header my-5'><span className="badge rounded-pill border">Web Dev Projects</span></h2>
+        <div className="row row-cols-1 row-cols-md-2 g-3 bg-primary p-2 my-5 border rounded text-center">
 
         <div className="col">
     <div className="card h-100">
