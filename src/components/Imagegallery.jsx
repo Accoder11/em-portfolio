@@ -13,8 +13,8 @@ function Imagegallery() {
   return (
     <div className='container my-5'>
         <h2 className='section-header'>
-          <span className="badge rounded-pill border"><img className="m-1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva logo" width="60px" height="60px"/>Canva Projects</span></h2>
-        <div className="row row-cols-1 row-cols-md-3 g-4 bg-primary p-3 my-5 border rounded">
+          <span className="badge rounded-pill border"><img className="m-1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="canva logo" width="50px" height="60px"/>Canva Projects</span></h2>
+        <div className="row row-cols-1 row-cols-md-3 g-4 bg-primary p-2 my-5 border rounded">
   <div className="col">
     <div className="card">
       <img src={img3} className="card-img-top" alt="canva project" />
