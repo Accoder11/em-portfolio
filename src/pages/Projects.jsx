@@ -3,22 +3,22 @@ import Excel from '../components/Excel'
 import Imagegallery from '../components/Imagegallery'
 import Webdev from '../components/Webdev'
 import Youtube from '../components/Youtube'
-import { Fade } from 'react-reveal'
+import { Fade } from "react-awesome-reveal";
 
 const Projects = () => {
   return (
     <div className="container-fluid">
       <div>
-      <Fade left>
+      <Fade direction="left">
         <Webdev />
         </Fade>
-        <Fade right>
+        <Fade direction="right">
         <Imagegallery />
         </Fade>
-        <Fade left>
+        <Fade direction="left">
         <Youtube />
         </Fade>
-        <Fade right>
+        <Fade direction="right">
         <Excel />
         </Fade>
       </div>

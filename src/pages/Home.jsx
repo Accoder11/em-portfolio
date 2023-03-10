@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import heroimage from '../assets/heroimage.jpg';
-import { Fade } from 'react-reveal';
+import { Fade } from "react-awesome-reveal";
 import Education from './Education';
 import Experience from './Experience';
 import Projects from './Projects';
@@ -38,18 +38,18 @@ const Home = () => {
       </div>
       <Navbar />
       <div className="container-fluid">
-        <Fade left>
-        <About />
+        <Fade direction="left">
+          <About />
         </Fade>
-        <Fade right>
-        <Education />
+        <Fade direction="right">
+          <Education />
         </Fade>
-        <Fade left>
-        <Experience />
+        <Fade direction="left">
+          <Experience />
         </Fade>
         <Projects />
-        <Fade left>
-        <Contact />
+        <Fade direction="left">
+          <Contact />
         </Fade>
       </div>
     </div>
