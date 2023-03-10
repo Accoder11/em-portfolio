@@ -4,8 +4,15 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background-color: blue;
+  background-image: url(./assets/background2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .hero-image {
@@ -14,7 +21,7 @@ body {
 
 .hero-text {
   position: absolute;
-  top: 40%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -28,13 +35,19 @@ body {
   font-size: 2rem;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .about-me {
   font-size: 1.2rem;
 }
 
 .profile {
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
@@ -111,6 +124,11 @@ a {
   height: auto;
 }
 
+
+
+
+/* responsiveness */
+
 @media (max-width: 767px) {
   .section-header {
     font-size: 1.7rem;
@@ -129,14 +147,14 @@ a {
     margin-top: 0.5rem;
   }
   .hero-text h1 {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
   .hero-text p{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   .profile {
-    top: 70%;
+    top: 75%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -145,7 +163,7 @@ a {
     margin-top: 1rem;
     margin: 10px;
     min-width: 100px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 }
 
