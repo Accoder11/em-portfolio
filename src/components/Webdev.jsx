@@ -14,7 +14,7 @@ const Webdev = () => {
         <div className="container">
         <Tools />
         <h2 className='section-header my-5'><span className="badge rounded-pill border">Web Dev Projects</span></h2>
-        <div className="row row-cols-1 row-cols-md-2 g-3 bg-primary p-1 my-5 border rounded text-center">
+        <div className="row row-cols-1 row-cols-md-2 g-3 bg-primary p-2 my-5 border rounded text-center">
 
         <div className="col">
     <div className="card h-100">
