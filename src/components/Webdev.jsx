@@ -20,7 +20,15 @@ const Webdev = () => {
     <div className="card h-100">
     <iframe src="https://group7project.vercel.app/html/index.html" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://group7project.vercel.app/html/index.html" target="_blank">KodeGo Capstone 1 Project Build with Javascript</a>
+    <a className="btn btn-primary card-link" href="https://group7project.vercel.app/html/index.html" target="_blank">Capstone 1 Project Build with Javascript (KodeGo Bootcamp) </a>
+  </div>
+    </div>
+  </div>
+  <div className="col">
+    <div className="card h-100">
+    <iframe src="https://capstone2-with-api.vercel.app/html/index.html" title="Embedded Website" width="100%" height="500px"></iframe>
+      <div className="card-body">
+    <a className="btn btn-primary card-link" href="https://capstone2-with-api.vercel.app/html/index.html/" target="_blank">Capstone 2 Project JS with API (KodeGo Bootcamp)</a>
   </div>
     </div>
   </div>
@@ -28,23 +36,15 @@ const Webdev = () => {
     <div className="card h-100">
     <iframe src="https://accoder11.github.io/simple-calculator/" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">KodeGo Capstone 2 Project Build with API</a>
+    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">Capstone 3 Project Build with ReactJs and Laravel(Will upload soon)</a>
   </div>
     </div>
   </div>
   <div className="col">
     <div className="card h-100">
-    <iframe src="https://accoder11.github.io/simple-calculator/" title="Embedded Website" width="100%" height="500px"></iframe>
+    <iframe src="https://kdrama-blog-build-with-react.vercel.app/" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">KodeGo Capstone 3 Project Build with ReactJs and Laravel</a>
-  </div>
-    </div>
-  </div>
-  <div className="col">
-    <div className="card h-100">
-    <iframe src="https://www.quotessharing.com/" title="Embedded Website" width="100%" height="500px"></iframe>
-      <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">Website Build with WordPress</a>
+    <a className="btn btn-primary card-link" href="https://kdrama-blog-build-with-react.vercel.app/" target="_blank">Sample React JS Mini-Project (Blog Website)</a>
   </div>
     </div>
   </div>
@@ -52,7 +52,7 @@ const Webdev = () => {
     <div className="card h-100">
     <iframe src="https://emcleto-todoapp.netlify.app/" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">Todo App Build with ReactJs</a>
+    <a className="btn btn-primary card-link" href="https://emcleto-todoapp.netlify.app/" target="_blank">ReactJs Mini-Project (Todo App) </a>
   </div>
     </div>
   </div>
