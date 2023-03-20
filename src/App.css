@@ -133,9 +133,9 @@ a {
   .section-header {
     font-size: 1.7rem;
   }
-}
-
-@media (max-width: 767px) {
+  .hero-image {
+    height: 100vh;
+  }
   .card-img-top {
     height: 100px;
   }
