@@ -34,9 +34,9 @@ const Webdev = () => {
   </div>
   <div className="col">
     <div className="card h-100">
-    <iframe src="https://accoder11.github.io/simple-calculator/" title="Embedded Website" width="100%" height="500px"></iframe>
+    <iframe src="http://group7.lovestoblog.com/index.php" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">Capstone 3 Project Build with ReactJs and Laravel(Will upload soon)</a>
+    <a className="btn btn-primary card-link" href="http://group7.lovestoblog.com/index.php" target="_blank">Simple Blog Website Built with PHP and MySQL (CRUD)</a>
   </div>
     </div>
   </div>
