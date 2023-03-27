@@ -36,7 +36,7 @@ const Webdev = () => {
     <div className="card h-100">
     <iframe src="http://group7.lovestoblog.com/" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="http://group7.lovestoblog.com/" target="_blank">Capstone 3 Project Build with ReactJs and Laravel(Will upload soon)</a>
+    <a className="btn btn-primary card-link" href="http://group7.lovestoblog.com/" target="_blank">Simple PHP Blog Website Built with PHP, MySQL, and Bootstrap. (CRUD)</a>
   </div>
     </div>
   </div>
