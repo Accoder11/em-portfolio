@@ -8,7 +8,9 @@ const Experience = () => {
           <h2 className='section-header'><span className="badge rounded-pill border"><img className="p-1 rounded-circle" src="https://www.pngitem.com/pimgs/m/480-4808402_work-experience-experience-symbol-hd-png-download.png" alt="work experience logo" width="60px" height="60px"/>Work Experience</span></h2>
         </div>
       </div>
-      <div className='row row-cols-1 row-cols-md-2 my-5 border rounded p-3 bg-primary'>
+      
+      <div className='container bg-primary border rounded p-3'>
+        <div className="row row-cols-1 row-cols-md-2">
         <div className='col mb-4'>
           <div className="card">
             <div className="card-body">
@@ -74,6 +76,7 @@ const Experience = () => {
     </div>
   </div>
   </div>
+</div>
 </div>
   )
 }

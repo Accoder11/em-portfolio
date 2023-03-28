@@ -17,7 +17,7 @@ function Imagegallery() {
         <div className="row row-cols-1 row-cols-md-3 g-4 bg-primary p-2 my-5 border rounded">
   <div className="col">
     <div className="card">
-      <img src={img3} className="card-img-top" alt="canva project" />
+      <img src={img3} className="card-img-top" alt="canva project"/>
     </div>
   </div>
   <div className="col">
