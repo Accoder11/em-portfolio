@@ -3,9 +3,9 @@ import React from 'react'
 function Tools() {
   return (
     <div>
-        <div className='container bg-primary p-3 border rounded'>
+        <div className='container bg-primary border rounded'>
         <h2 className='text-center text-white my-5'><span>⚙🔧 Web Tools and Softwares that I Use</span></h2>
-        <div className="row row-cols-1 row-cols-md-6 g-3 p-2 my-5">
+        <div className="row row-cols-1 row-cols-md-4 g-3 my-5">
     <div className="col">
     <div className="card">
       <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" className="card-img-top" alt="github logo" />

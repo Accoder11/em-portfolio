@@ -12,7 +12,7 @@ import Typewriter from 'typewriter-effect';
 const Home = () => {
   return (
     <div>
-      <div className="hero-image text-center" style={{ backgroundImage: `url(${heroimage})`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '150vh' }}>
+      <div className="hero-image text-center" style={{ backgroundImage: `url(${heroimage})`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '130vh' }}>
         <div className="hero-text">
           <h1>
           <Typewriter
