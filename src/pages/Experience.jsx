@@ -9,7 +9,7 @@ const Experience = () => {
         </div>
       </div>
       <div className='row my-5 border rounded p-3 bg-primary'>
-        <div className='col-sm-6 mb-4'>
+        <div className='col mb-4'>
           <div className="card">
             <div className="card-body">
               <div className="card-header">
@@ -25,7 +25,7 @@ const Experience = () => {
             </div>
           </div>
         </div>
-        <div className='col-sm-6 mb-4'>
+        <div className='col mb-4'>
           <div className="card">
             <div className="card-body">
               <div className="card-header">
@@ -40,7 +40,7 @@ const Experience = () => {
             </div>
           </div>
         </div>
-        <div className='col-sm-6 mb-4'>
+        <div className='col mb-4'>
           <div className="card">
             <div className="card-body">
               <div className="card-header">
@@ -56,7 +56,7 @@ const Experience = () => {
             </div>
           </div>
         </div>
-        <div className='col-sm-6 mb-4'>
+        <div className='col mb-4'>
           <div className="card">
             <div className="card-body">
               <div className="card-header">
