@@ -1,4 +1,4 @@
-import React from 'react';
+import { React, useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import heroimage from '../assets/heroimage.jpg';
@@ -9,11 +9,25 @@ import Contact from './Contact';
 import About from '../components/About';
 
 const Home = () => {
+
+  const [text, setText] = useState("");
+  const [fullText, setFullText] = useState("Hi! I am Alma Cleto")
+  const [index, setIndex] = useState(0)
+
+  useEffect(()=>{
+    if (index < fullText.length) {
+      setTimeout(()=>{
+        setText(text + fullText[index])
+        setIndex(index + 1)
+      }, 40)
+    }
+  }, [index]);
+
   return (
     <div>
       <div className="hero-image text-center" style={{ backgroundImage: `url(${heroimage})`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '150vh' }}>
         <div className="hero-text">
-          <h1>Hi! I am Alma Cleto</h1>
+          <h1>{text}</h1>
           <p>And I'm a Web Developer</p>
         </div>
         <div className="profile">
