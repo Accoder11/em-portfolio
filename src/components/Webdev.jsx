@@ -47,9 +47,9 @@ const Webdev = () => {
   </div>
   <div className="col">
     <div className="card h-100 embed-responsive embed-responsive-16by9">
-    <iframe className="embed-responsive-item" src="https://kdrama-blog-build-with-react.vercel.app/" title="Embedded Website" width="100%" height="500px"></iframe>
+    <iframe className="embed-responsive-item" src="http://phpcrud.epizy.com/index.php" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://kdrama-blog-build-with-react.vercel.app/" target="_blank">Sample React JS Mini-Project (Blog Website)</a>
+    <a className="btn btn-primary card-link" href="http://phpcrud.epizy.com/index.php" target="_blank">PHP CRUD with MySQL Database</a>
   </div>
     </div>
   </div>
@@ -63,9 +63,9 @@ const Webdev = () => {
   </div>
   <div className="col">
     <div className="card h-100 embed-responsive embed-responsive-16by9">
-    <iframe className="embed-responsive-item" src="https://accoder11.github.io/simple-calculator/" title="Embedded Website" width="100%" height="500px"></iframe>
+    <iframe className="embed-responsive-item" src="https://simple-calculator-livid.vercel.app/" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://www.quotessharing.com/" target="_blank">Basic Calculator Build with Javascript</a>
+    <a className="btn btn-primary card-link" href="https://simple-calculator-livid.vercel.app/" target="_blank">Basic Calculator Build with Javascript</a>
   </div>
     </div>
   </div>
