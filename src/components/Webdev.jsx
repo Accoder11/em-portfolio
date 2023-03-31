@@ -31,9 +31,9 @@ const Webdev = () => {
   </div>
   <div className="col">
     <div className="card h-100 embed-responsive embed-responsive-16by9">
-    <iframe className="embed-responsive-item" src="https://capstone2-with-api.vercel.app/html/index.html" title="Embedded Website" width="100%" height="500px"></iframe>
+    <iframe className="embed-responsive-item" src="https://capstone2-with-api-t4el.vercel.app/html/index.html" title="Embedded Website" width="100%" height="500px"></iframe>
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="https://capstone2-with-api.vercel.app/html/index.html/" target="_blank">Capstone 2 Project JS with API (KodeGo Bootcamp)</a>
+    <a className="btn btn-primary card-link" href="https://capstone2-with-api-t4el.vercel.app/html/index.html" target="_blank">Capstone 2 Project JS with API (KodeGo Bootcamp)</a>
   </div>
     </div>
   </div>
