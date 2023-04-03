@@ -49,6 +49,9 @@ const Education = () => {
             <p className="card-text">
               February 15, 2021 - March 11, 2021
             </p>
+            <p className="card-text text-muted">
+            Certificate No. WD-21-0027
+            </p>
           </div>
         </div>
 
