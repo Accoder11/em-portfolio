@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import Navbar from '../components/Navbar';
-import heroimage from '../assets/heroimage.jpg';
 import Education from './Education';
 import Experience from './Experience';
 import Projects from './Projects';
@@ -12,16 +11,17 @@ import Typewriter from 'typewriter-effect';
 const Home = () => {
   return (
     <div>
-      <div className="hero-image text-center" style={{ backgroundImage: `url(${heroimage})`, backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '130vh' }}>
+      <div className="hero-image text-center">
         <div className="hero-text">
-          <h1>
+          <h1>Hello, I'm Alma Cleto</h1>
+          <h2>
           <Typewriter
         options={{
-          strings: ["Hello", "I'm Alma Cleto", "And I'm a Web Developer"],
+          strings: ["And I'm a Web Developer"],
           autoStart: true,
           loop: true,
           }}/>
-          </h1>
+          </h2>
         </div>
         <div className="profile">
           <NavLink exact to="/contact">
