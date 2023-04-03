@@ -185,17 +185,17 @@
   
     @media (max-width: 425px) {
       .hero-text{
-        margin-top: 0.5rem;
+        margin-top: 0.8rem;
       }
       .hero-text h1 {
-        font-size: 3rem;
+        font-size: 2.8rem;
       }
       .hero-text h2 {
         font-size: 2rem;
       }
   
     .profile {
-      top: 60%;
+      top: 65%;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -204,7 +204,7 @@
       margin-top: 1rem;
       margin: 10px;
       min-width: 90px;
-      font-size: 1.3rem;
+      font-size: 1.5rem;
     }
     .footer {
       font-size: 0.8rem;
