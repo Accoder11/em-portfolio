@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div>
       <div className="hero-image text-center">
-        <div className="hero-text">
+        <div className="hero-text container-fluid">
           <h1>Hello, I'm Alma Cleto</h1>
           <h2>
           <Typewriter
