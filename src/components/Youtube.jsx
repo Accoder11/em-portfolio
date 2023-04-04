@@ -4,7 +4,7 @@ import React from 'react'
 function Youtube() {
   return (
     <div className='container'>
-      <h2 className='section-header'><span className="badge rounded-pill border"><img className="rounded-circle mx-1" src="https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg?w=2000" alt="youtube logo" width="60px" height="60px"/>YouTube Videos</span></h2>
+      <h2 className='section-header'><span className="badge rounded-pill border"><img className="rounded-circle mx-1" src="https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg?w=2000" alt="youtube logo" width="60px" height="60px"/>Video Editing Projects</span></h2>
         <div className="row row-cols-1 row-cols-md-2 g-4 bg-primary p-3 my-5 border rounded">
       <div className="col">
         <div className="card">
