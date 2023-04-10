@@ -1,4 +1,5 @@
 import React from 'react';
+import Certificates from '../components/Certificates';
 
 const Education = () => {
   return (
@@ -74,6 +75,7 @@ const Education = () => {
           </div>
         </div>
     </div>
+    <Certificates />
     </div>
   )
 }
