@@ -26,6 +26,18 @@ function Tools() {
 
   <div className="col">
     <div className="card">
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" className="card-img-top" alt="Python logo" />
+    </div>
+  </div>
+
+  <div className="col">
+    <div className="card">
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" className="card-img-top" alt="nodejs logo" />
+    </div>
+  </div>
+
+  <div className="col">
+    <div className="card">
       <img src="https://cdn.dribbble.com/users/3061686/screenshots/17599145/figma-logo-2_4x.png" className="card-img-top" alt="Figma logo" />
     </div>
   </div>

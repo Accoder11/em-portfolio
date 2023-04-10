@@ -1,5 +1,7 @@
 import React from 'react'
 import Tools from '../components/Tools'
+import students from '../assets/students.png'
+import blog from '../assets/blog.png'
 
 const Webdev = () => {
   return (
@@ -39,17 +41,17 @@ const Webdev = () => {
   </div>
   <div className="col">
     <div className="card h-100 embed-responsive embed-responsive-16by9">
-    <iframe className="embed-responsive-item" src="http://group7.lovestoblog.com/" title="Embedded Website" width="100%" height="500px"></iframe>
+    <img src={blog} alt="students management system" className="h-100 d-block img-fluid w-100" />
       <div className="card-body">
     <a className="btn btn-primary card-link" href="http://group7.lovestoblog.com/" target="_blank">Simple PHP Blog Website Built with PHP, MySQL, and Bootstrap. (CRUD)</a>
   </div>
     </div>
   </div>
   <div className="col">
-    <div className="card h-100 embed-responsive embed-responsive-16by9">
-    <iframe className="embed-responsive-item" src="http://phpcrud.epizy.com/index.php" title="Embedded Website" width="100%" height="500px"></iframe>
+    <div className="card h-100">
+    <img src={students} alt="students management system" className="h-100 d-block img-fluid w-100" />
       <div className="card-body">
-    <a className="btn btn-primary card-link" href="http://phpcrud.epizy.com/index.php" target="_blank">PHP CRUD with MySQL Database</a>
+    <a className="btn btn-primary card-link" href="http://phpcrud.epizy.com/index.php" target="_blank">Student Management System (PHP CRUD with MySQL Database)</a>
   </div>
     </div>
   </div>
