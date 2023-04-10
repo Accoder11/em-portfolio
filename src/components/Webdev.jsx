@@ -41,7 +41,7 @@ const Webdev = () => {
   </div>
   <div className="col">
     <div className="card h-100 embed-responsive embed-responsive-16by9">
-    <img src={blog} alt="students management system" className="h-100 d-block img-fluid w-100" />
+    <img src={blog} alt="simple blog" className="h-100 d-block img-fluid w-100" />
       <div className="card-body">
     <a className="btn btn-primary card-link" href="http://group7.lovestoblog.com/" target="_blank">Simple PHP Blog Website Built with PHP, MySQL, and Bootstrap. (CRUD)</a>
   </div>
