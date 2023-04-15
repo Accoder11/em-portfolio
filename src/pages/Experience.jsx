@@ -15,10 +15,10 @@ const Experience = () => {
           <div className="card">
             <div className="card-body">
               <div className="card-header">
-                <h5>PART-TIME ONLINE CONTENT CURATOR</h5>
+                <h5>ONLINE CONTENT CREATOR/WRITER</h5>
               </div>
-              <h6 className="card-title">Quotes Sharing</h6>
-              <p className="card-text">March 2022 - October 2022</p>
+              <h6 className="card-title">Onlinejobs.ph</h6>
+              <p className="card-text">August 2021 - October 2022</p>
               <ul className="card-text">
                 <p>Responsibilities:</p>
                 <li>Understands the importance of creating engaging content that resonates with target audiences.</li> 
