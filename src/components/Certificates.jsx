@@ -9,6 +9,12 @@ function Certificates() {
        
         <div className="col">
         <div className="card h-100 embed-responsive embed-responsive-16by9">
+        <iframe className="embed-responsive-item" src="https://drive.google.com/file/d/1GQtUQzusUmA3mG0CdhuuexzKko_sxaKd/preview" width="100%" height="300px"></iframe>
+    </div>
+  </div>
+  
+  <div className="col">
+        <div className="card h-100 embed-responsive embed-responsive-16by9">
     <iframe className="embed-responsive-item" src="https://drive.google.com/file/d/1NFibZZsZUBKHLQIyyR1wIulQp_SVARlf/preview" width="100%" height="300px"></iframe>
     </div>
   </div>
@@ -44,16 +50,6 @@ function Certificates() {
         </a>
     </div>
   </div>
-
-  <div className="col">
-        <div className="card">
-        <a href="https://www.coursera.org/account/accomplishments/certificate/8N3UPRKPR55D"  target="_blank" title="Google Sheets Certificate">
-        <img className="img-fluid h-100 w-100 d-block" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8N3UPRKPR55D/CERTIFICATE_LANDING_PAGE~8N3UPRKPR55D.jpeg"/>
-        </a>
-    </div>
-  </div>
-  
-  
 
 </div>
     </div>
