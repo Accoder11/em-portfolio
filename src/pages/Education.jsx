@@ -29,6 +29,9 @@ const Education = () => {
             <p className="card-text">
               November 2022-February 2023
             </p>
+            <p className="card-text text-muted">
+            Certificate No. KG-09212022-061
+            </p>
           </div>
         </div>
 
