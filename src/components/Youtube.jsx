@@ -30,21 +30,21 @@ function Youtube() {
   <div className="col">
   <div className="card">
         <div className="ratio ratio-16x9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/MnPT67OV7RA" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-    </div>
-  </div>
-  <div className="col">
-  <div className="card">
-        <div className="ratio ratio-16x9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/hBfdvSvzXg0" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-    </div>
-  </div>
-  <div className="col">
-  <div className="card">
-        <div className="ratio ratio-16x9">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/-tKH5zEtMZk" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    </div>
+  </div>
+  <div className="col">
+  <div className="card">
+        <div className="ratio ratio-16x9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pxL1OLCu5r0" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    </div>
+  </div>
+  <div className="col">
+  <div className="card">
+        <div className="ratio ratio-16x9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LOzftnZ4As0" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     </div>
   </div>
