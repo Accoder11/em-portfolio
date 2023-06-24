@@ -31,7 +31,7 @@ const Navbar = () => {
             </li>
           </ul>
           <button className="btn btn-outline-light btn-lg resume" type="submit">
-            <a href="https://drive.google.com/file/d/1-FfdPH_On3TVcNvJmYjAoWdWJPvA3RVG/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+            <a href="https://drive.google.com/file/d/1xliIIWNzUhlZKLKVE7_n-_fczzAjswHT/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
           </button>
         </div>
       </div>
