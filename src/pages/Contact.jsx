@@ -11,7 +11,7 @@ const Contact = () => {
     <a href="https://calendly.com/almacleto23/consultation" target="_blank" ><img className="img-fluid d-block w-10 rounded-pill"  src="https://cdn.mos.cms.futurecdn.net/W3yFiCjbmPia2u3qk9kKci.jpg" alt="calendly logo"/></a>
     </div>
     <div className="col-6 colcol-md-4">
-    <a href="mailto:almacleto23@gmail.com"><img src="https://logowik.com/content/uploads/images/513_email.jpg" className="rounded-pill" width="140px" height="90px"/></a>
+    <a href="mailto:almacleto23@gmail.com"><img src="https://logowik.com/content/uploads/images/513_email.jpg" className="img-fluid d-block w-10 rounded-pill" width="140px" height="90px"/></a>
     </div>
     <div className="col-6 colcol-md-4">
     <a href="https://www.linkedin.com/in/alma-cleto-eyzy11/" target="_blank" ><img className="img-fluid d-block w-10" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-logo-png-transparent.png"/></a>
