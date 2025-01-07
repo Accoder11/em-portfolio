@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="container text-center my-5">
       <h2 className='section-header'><span className="badge rounded-pill border"><img className="mx-1 rounded-circle" src="https://www.seekpng.com/png/full/130-1306317_clipart-resolution-12001200-contact-us-icon-transparent.png" alt="contact me logo" width="60px" height="60px"/>Contact</span></h2>
       
-  <div className="row row-cols-3 rounded p-3 g-5 my-5">
+  <div className="row row-cols-4 rounded p-3 g-5 my-5">
   
     <div className="col-6 col-md-4">
     <a href="https://calendly.com/almacleto23/consultation" target="_blank" ><img className="img-fluid d-block w-10 rounded-pill"  src="https://cdn.mos.cms.futurecdn.net/W3yFiCjbmPia2u3qk9kKci.jpg" alt="calendly logo"/></a>
