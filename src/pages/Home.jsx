@@ -17,7 +17,7 @@ const Home = () => {
           <h2>
           <Typewriter
         options={{
-          strings: ["And I'm a Web Developer.", "Let's create an awesome", "and useful projects!"],
+          strings: ["And I'm a Licensed ESL Teacher", "& E-commerce Operations Specialist"],
           autoStart: true,
           loop: true,
           }}/>
