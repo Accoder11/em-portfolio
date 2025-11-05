@@ -18,10 +18,10 @@ const Navbar = () => {
               <NavLink to="/" className="nav-link" aria-current="page">Home</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to="/education" className="nav-link" >Education and Training</NavLink>
+              <NavLink to="/education" className="nav-link" >ESL Teaching Portfolio</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to="/experience" className="nav-link">Work Experiences</NavLink>
+              <NavLink to="/experience" className="nav-link">E-commerce & Digital Operations</NavLink>
             </li>
             <li className="nav-item">
               <NavLink to="/projects" className="nav-link">Tools and Projects</NavLink>

@@ -19,7 +19,7 @@ function About() {
                   <div className="card bg-primary p-2 border rounded">
                     <div className="card-body">
                       <p className="card-text about-me">
-                        Detail-focused Digital Operations Specialist and Licensed Teacher (LPT). I deliver guaranteed error-free, non-call backend support leveraging hands-on experience in CMS (WordPress/Hostinger), SEO, data analytics, and educational video production.
+                        Detail-focused Digital Operations Specialist and Licensed Professional Teacher (LPT). I deliver error-free backend administrative execution, leveraging hands-on experience in CMS (WordPress/Hostinger), SEO, data analytics, and educational video production.
                       </p>
                     </div>
                   </div>
