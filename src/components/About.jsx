@@ -19,7 +19,7 @@ function About() {
                   <div className="card bg-primary p-2 border rounded">
                     <div className="card-body">
                       <p className="card-text about-me">
-                        As a passionate web developer with a background in content curation and social media management, I have strong adaptability and problem-solving abilities, as well as a strong desire to learn new things. I attended a web development bootcamp to hone my programming skills, which helped me build and create useful websites and applications. I can work with little supervision and am resourceful and self-sufficient.
+                        Detail-focused Digital Operations Specialist and Licensed Teacher (LPT). I deliver guaranteed error-free, non-call backend support leveraging hands-on experience in CMS (WordPress/Hostinger), SEO, data analytics, and educational video production.
                       </p>
                     </div>
                   </div>
